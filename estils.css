@@ -1,3 +1,12 @@
 body{
-  background-color: red;
+  background-color: black;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+div{
+  heigt: 150px;
+  width: 200px;
+  background-color: white;
+  margin: 10px;
 }
